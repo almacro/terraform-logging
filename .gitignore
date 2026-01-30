@@ -1,0 +1,12 @@
+# tfvars
+**/*.tfvars
+**/*.tfvars.json
+
+# overrides
+**/*_override.tf
+
+# TF local state
+**/*.tfstate
+**/*.tfstate.*
+**/*.local-state
+**/*.local-state.backup
